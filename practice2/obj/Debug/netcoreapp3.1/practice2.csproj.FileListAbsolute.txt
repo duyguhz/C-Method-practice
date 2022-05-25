@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.deps.json
+/Users/duyguhasanzade/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.runtimeconfig.json
+/Users/duyguhasanzade/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.dll
+/Users/duyguhasanzade/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.pdb
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.dll
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.pdb
+/Users/duyguhasanzade/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.genruntimeconfig.cache

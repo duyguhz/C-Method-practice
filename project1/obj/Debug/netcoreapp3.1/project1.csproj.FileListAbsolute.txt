@@ -1,0 +1,5 @@
+/Users/duyguhasanzade/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.csproj.CoreCompileInputs.cache
